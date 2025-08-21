@@ -817,6 +817,82 @@ for i in range(rows):
 
         
     
+# pandas, csv file
+
+import pandas as pd
+df=pd.read_csv('Book1.csv')
+print(df)
+print(df.head())
+print(df.tail())
+print(df.info())
+
+    # other operations 
+    
+import pandas as pd
+df=pd.read_csv("Book1.csv")
+print(df)
+#print(df.shape())
+print(df.columns)
+print(df.tail(2))
+print(df.head(2))
+print(df.info())
+print(df.describe())
+
+print("'''''''''''''''''''")
+print(df.min(axis=0,numeric_only=True))
+
+print("'''''''''''''''''''")
+print(df.sum(axis=0,numeric_only=True))
+print("'''''''''''''''''''")                
+    
+    
+    
+#axis=1==row and axis=0==column with pandas and matplotlib library
+
+import pandas as pd
+import matplotlib as plt
+df=pd.read_csv("student.csv")
+print(df)
+
+mean=df.mean(axis=1,numeric_only=True)
+print(mean)
+print("--------------")
+maxx=df.max(axis=0,numeric_only=True)
+print(maxx)
+
+mean=df.max(axis=1,numeric_only=True)
+print(mean)
+print("--------------")
+df["summ"]=df[["math", "science", "gujarati", "hindi", "english"]].sum(axis=1)
+print(df[["name","summ"]])
+print("--------------")
+df["std"]=df[["math", "science", "gujarati", "hindi", "english"]].std(axis=1)
+print(df[["name","std"]])
+print("--------------")
+df["mean"]=df[["math", "science", "gujarati", "hindi", "english"]].mean(axis=1)
+print(df[["name","mean"]])
+print("--------------")
+df["min"]=df[["math", "science", "gujarati", "hindi", "english"]].min(axis=1)
+print(df[["name","min"]])
+print("--------------")
+df["max"]=df[["math", "science", "gujarati", "hindi", "english"]].max(axis=1)
+print(df[["name","max"]])
+print("--------------")
+print("check persentage")
+print("--------------")
+df["summ"]=df[["math", "science", "gujarati", "hindi", "english"]].sum(axis=1)
+#print(df[["name","summ"]])
+df["per"]=(df["summ"]*100)/500
+print(df[["name","per"]])
+print("*************************")
+print(df[["name","per","summ","mean","min","max","std"]])
+print("//////////////////////////   matplotlib")
+plt.plot(df["name"], df["per"], marker="o", color="green")
+plt.title("Percentage Trend")
+plt.xlabel("Student")
+plt.ylabel("Percentage (%)")
+plt.grid(True)
+plt.show()    
     
     
     
@@ -856,8 +932,5 @@ for i in range(rows):
     
     
     
-    
-    
-    
-    
+
     
