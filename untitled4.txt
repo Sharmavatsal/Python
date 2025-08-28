@@ -1,0 +1,65 @@
+tesla Model S: Tesla.
+ford Mustang: Ford.
+chevrolet Camaro: Chevrolet.
+bmw m5: BMW.
+audi A4: Audi.
+toyota Corolla: Toyota.
+honda Civic: Honda.
+mercedes-Benz C-Class: Mercedes-Benz.
+nissan Altima: Nissan.
+hyundai Elantra: Hyundai.
+lexus RX: Lexus.
+jaguar F-Type: Jaguar.
+mazda 3: Mazda.
+subaru Impreza: Subaru.
+ford F-150: Ford.
+toyota Camry: Toyota.
+kia Optima: Kia.
+volkswagen Passat: Volkswagen.
+chrysler 300: Chrysler.
+dodge Charger: Dodge.
+porsche 911: Porsche.
+mitsubishi Outlander: Mitsubishi.
+volvo XC90: Volvo.
+land Rover Range Rover: Land Rover.
+chevrolet Silverado: Chevrolet.
+gmc Sierra: GMC.
+ram 1500: Ram.
+bmw 3 Series: BMW.
+audi Q7: Audi.
+honda Accord: Honda.
+toyota RAV4: Toyota.
+ford Escape: Ford.
+mazda CX-5: Mazda.
+nissan Rogue: Nissan.
+hyundai Tucson: Hyundai.
+kia Sorento: Kia.
+subaru Outback: Subaru.
+mercedes-Benz E-Class: Mercedes-Benz.
+bmw X3: BMW.
+chevrolet Equinox: Chevrolet.
+ford Explorer: Ford.
+nissan Pathfinder: Nissan.
+jeep Grand Cherokee: Jeep.
+chrysler Pacifica: Chrysler.
+honda CR-V: Honda.
+toyota Highlander: Toyota.
+hyundai Santa Fe: Hyundai.
+mazda CX-9: Mazda.
+volkswagen Tiguan: Volkswagen.
+audi Q5: Audi.
+bmw Z4: BMW.
+porsche Cayenne: Porsche.
+jaguar XE: Jaguar.
+volvo S60: Volvo.
+cadillac Escalade: Cadillac.
+acura MDX: Acura.
+infiniti Q50: Infiniti.
+mercedes-Benz GLC: Mercedes-Benz.
+lexus ES: Lexus.
+bmw i8: BMW.
+ferrari 488: Ferrari.
+aston Martin DB11: Aston Martin.
+bentley Continental GT: Bentley.
+rolls-Royce Phantom: Rolls-Royce.
+tesla Model X: Tesla.

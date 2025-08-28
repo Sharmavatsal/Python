@@ -1,0 +1,48 @@
+iphone 13: Apple.
+samsung Galaxy S21: Samsung.
+google Pixel 6: Google.
+oneplus 9: OnePlus.
+xiaomi Mi 11: Xiaomi.
+oppo Find X3: Oppo.
+huawei P40: Huawei.
+sony Xperia 1 II: Sony.
+lg Velvet: LG.
+motorola Edge: Motorola.
+asus ZenFone 8: Asus.
+realme GT: Realme.
+nokia 8.3: Nokia.
+lenovo Legion Phone: Lenovo.
+vivo V21: Vivo.
+samsung Galaxy Note 20: Samsung.
+iphone 12: Apple.
+samsung Galaxy Z Fold 3: Samsung.
+xiaomi Redmi Note 10: Xiaomi.
+google Pixel 5: Google.
+oneplus Nord 2: OnePlus.
+huawei Mate 40: Huawei.
+sony Xperia 5 II: Sony.
+oppo Reno 5: Oppo.
+lg V60 ThinQ: LG.
+motorola Moto G Power: Motorola.
+xiaomi Mi 10: Xiaomi.
+samsung Galaxy A52: Samsung.
+iphone 11 Pro: Apple.
+realme Narzo 30 Pro: Realme.
+nokia 7.2: Nokia.
+lenovo Z6 Pro: Lenovo.
+vivo Y20: Vivo.
+samsung Galaxy A72: Samsung.
+iphone SE (2020): Apple.
+google Pixel 4a: Google.
+xiaomi Poco F3: Xiaomi.
+oneplus 8 Pro: OnePlus.
+huawei Honor 30 Pro: Huawei.
+samsung Galaxy S20 FE: Samsung.
+motorola Moto E: Motorola.
+sony Xperia 10 II: Sony.
+oppo A54: Oppo.
+vivo X60 Pro: Vivo.
+lg G8X ThinQ: LG.
+nokia 6.2: Nokia.
+realme 7 Pro: Realme.
+lenovo K12 Note: Lenovo.
