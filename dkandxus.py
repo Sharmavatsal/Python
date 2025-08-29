@@ -252,7 +252,7 @@ print(np.__version__)
 
 
 
-# to check the dimwnsio of array
+# to check the dimension of array
 
 import numpy as np
 
@@ -934,3 +934,4 @@ plt.show()
     
 
     
+
