@@ -896,7 +896,26 @@ plt.show()
     
     
     
-    
+# csv file operations  
+
+import pandas as pd
+
+df = pd.read_csv('Book1.csv')
+df.info()
+df.tail()
+df.head()
+df.describe()
+df['rollno'] # or df.age
+df.iloc[:,0] # iloc[rows : cols] and iloc[rows:cols , rows:cols] to print a part of table we want
+df.isnull()
+mean_age = df['rollno'].mean()
+print(mean_age) # same for median   
+df.isna() # to find value out of range in the data or table
+null_counts = df.isnull().sum()
+columns_null = null_counts[null_counts > 0].index
+mean_rollno = df['rollno'].mean()
+new_df = df.copy() # imp    
+new_df    
     
     
     
@@ -934,4 +953,5 @@ plt.show()
     
 
     
+
 
