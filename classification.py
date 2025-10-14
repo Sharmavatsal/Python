@@ -8,7 +8,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 
 
-df = pd.read_csv('data-new.csv')
+df = pd.read_csv('data.csv')
 
 data2 = df
 label_encoder = LabelEncoder()
@@ -22,5 +22,6 @@ print(data3)
  
 minmax = MinMaxScaler()
 data3[['Salary']] = minmax.fit_transform(data3[['Salary']])
+
 
 
